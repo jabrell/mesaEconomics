@@ -1,7 +1,6 @@
 import logging
 from mesaEconomics.agents import Agent
 from mesaEconomics.commodities import Commodity
-from numpy import random
 
 
 class Adopter(Agent):
